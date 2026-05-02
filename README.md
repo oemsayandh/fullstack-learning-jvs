@@ -7,3 +7,4 @@ this repo contains the learning process of java spring boot fullstack
 -image audio video insert and control
 -deap in head like tittle seo version
 -image creation using svg for no quality los scaling
+-implmentation of semantics in html for brter seo
